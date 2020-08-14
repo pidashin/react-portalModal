@@ -1,0 +1,12 @@
+{
+  "name": "react-portalModal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Johnny <johnny@innotech.me>",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
